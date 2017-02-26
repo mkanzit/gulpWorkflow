@@ -1,0 +1,14 @@
+// Main style file
+@import './includes/configs/vars';
+@import './includes/configs/colors';
+@import './includes/configs/fonts';
+@import './includes/configs/rem';
+
+@import './includes/globals';
+
+@import './includes/layout/skeleton';
+@import './includes/layout/header';
+@import './includes/layout/footer';
+
+@import './includes/fragments/cloud';
+@import './includes/fragments/sidebar';
